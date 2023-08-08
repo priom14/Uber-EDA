@@ -4,7 +4,7 @@
 
 # Uber Data Analysis
 
-Welcome to the Uber Data Analysis project! In this project, we perform an in-depth exploration and analysis of Uber's ride-sharing data to uncover insights, trends, and patterns.
+Welcome to the Uber Data Analysis project! In this project, I perform an in-depth exploration and analysis of Uber's ride-sharing data to uncover insights, trends, and patterns.
 
 
 ## Table of Contents
@@ -22,11 +22,11 @@ Welcome to the Uber Data Analysis project! In this project, we perform an in-dep
 
 ## Introduction
 
-This Uber Data Analysis project offers a deep dive into the world of urban transportation, using Uber's extensive ride-sharing data as our compass. Our exploration goes beyond the surface, unraveling the intricate threads that weave through modern cities, connecting commuters, destinations, and moments in time. By harnessing the power of data analysis, we unearth the hidden stories of urban mobility, revealing insights that empower decision-makers, urban planners, and curious minds alike. From deciphering peak travel hours and traffic hotspots to deciphering rider preferences and uncovering shifts in demand, our analysis aims to enrich the conversation around modern transportation dynamics.Join us as we dissect the data, translate it into meaningful visualizations, and embark on a journey to make sense of the urban tapestry painted by Uber's ride-sharing activities. Whether you're a data enthusiast, a transportation professional, or simply curious about the rhythms of city life, our project invites you to explore, discover, and engage with the essence of urban mobility.
+This Uber Data Analysis project offers a deep dive into the world of urban transportation, using Uber's extensive ride-sharing data as my compass. My exploration goes beyond the surface, unraveling the intricate threads that weave through modern cities, connecting commuters, destinations, and moments in time. By harnessing the power of data analysis, I unearth the hidden stories of urban mobility, revealing insights that empower decision-makers, urban planners, and curious minds alike. From deciphering peak travel hours and traffic hotspots to deciphering rider preferences and uncovering shifts in demand, my analysis aims to enrich the conversation around modern transportation dynamics.Join as I dissect the data, translate it into meaningful visualizations, and embark on a journey to make sense of the urban tapestry painted by Uber's ride-sharing activities. Whether you're a data enthusiast, a transportation professional, or simply curious about the rhythms of city life, my project invites you to explore, discover, and engage with the essence of urban mobility.
 
 ## Dataset
 
-We will be working with the Uber dataset from 2016 which has multiple features like pickup drop-offf time , place total distance travelled purpose for the ride etc.
+I will be working with the Uber dataset from 2016 which has multiple features like pickup drop-offf time , place total distance travelled purpose for the ride etc.
 
 ## Notebook Content
 
@@ -62,6 +62,11 @@ or if this doesnt work try instead :
 ```{python}
 py -m pip install Numpy
 ```
+Or you can just run the following python command to install the libraries:
+```{python}
+pip installl -r requirments.txt
+```
+
 
 ## Usage
 
@@ -80,7 +85,7 @@ Here are some of the insights and highlights I have discovered in this data anal
 
 ## Contributing
 
-We welcome contributions from the community! To contribute to the Uber Data Analysis project, follow these steps:
+Feel free to contribute to the Uber Data Analysis project, follow these steps:
 
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature-new-feature`
@@ -94,5 +99,6 @@ If you have any questions or suggestions, please feel free to reach out to us:
 
 - Email: priompalnfs@yahoo.com
 - [Linkedin](https://www.linkedin.com/in/priom-pal-b32961194/) Priom Pal
+- Linkedin: [@https://www.linkedin.com/in/priom-pal-b32961194/]
 
 Happy coding!
