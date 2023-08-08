@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="uber_logo.png" alt="Uber Logo" width="200" height="200">
+  <img src="img/538264.png" alt="Uber Logo" width="200" height="200">
 </div>
 
 # Uber Data Analysis
 
 Welcome to the Uber Data Analysis project! In this project, we perform an in-depth exploration and analysis of Uber's ride-sharing data to uncover insights, trends, and patterns.
 
-![Uber Logo](538264.png)
 
 ## Table of Contents
 
@@ -28,14 +27,13 @@ This Uber Data Analysis project offers a deep dive into the world of urban trans
 
 ## Dataset
 
-We will be working with the [provide a brief description of the dataset you're using, including its source and any notable characteristics].
+We will be working with the Uber dataset from 2016 which has multiple features like pickup drop-offf time , place total distance travelled purpose for the ride etc.
 
-## Features
+## Notebook Content
 
-- [List key features and functionalities of your data analysis]
-- [Feature 1]
-- [Feature 2]
-- ...
+- Data loading and preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature engineering
 
 ## Getting Started
 
@@ -43,30 +41,43 @@ To get started with this data analysis project, follow these steps:
 
 ### Prerequisites
 
-[Detailed list of prerequisites that users need to have installed or set up before using your project]
+Before users can start using this Uber data analysis project, you need to have a set of prerequisites installed and set up on your system. Here's a detailed list of prerequisites:
 
 ### Installation
 
-[Step-by-step installation guide]
 
-1. [Step 1]
-2. [Step 2]
-3. ...
+1. Programming Environment:
+- Python 
+- Integrated Development Environment (IDE) like Jupyter Notebook, Visual Studio Code, or PyCharm (optional but recommended)
+2. Libraries and Dependencies
+Install the following libraries using the package manager 'pip' :
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+here is an example to install Numpy:
+```{python}
+pip install Numpy
+```
+or if this doesnt work try instead :
+```{python}
+py -m pip install Numpy
+```
 
 ## Usage
 
-[Instructions on how to use the data analysis project]
-1. [Step-by-step guide for using a specific feature]
-2. [Another usage example]
-3. ...
+To use this notebook these are the following steps: 
+1. Clone this repository to your local machine/ Download the repository.
+2. Install the required dependencies as mentioned in the Dependencies section.
+3. Open the Jupyter Notebook (Uber Data Analysis.ipynb) in Jupyter Notebook.
+4. Execute the cells in sequential order to reproduce the analysis.
 
 ## Analysis Highlights
 
-Here are some of the insights and highlights we've uncovered through our data analysis:
+Here are some of the insights and highlights I have discovered in this data analysis:
 
-- [Highlight 1]
-- [Highlight 2]
-- ...
+- ![Alt text](img/BArplot.png "Histogram of Purpose")
+- ![Alt text](img/boxplot.png "Boxplot")
 
 ## Contributing
 
@@ -78,16 +89,11 @@ We welcome contributions from the community! To contribute to the Uber Data Anal
 4. Push to the branch: `git push origin feature-new-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or suggestions, please feel free to reach out to us:
 
-- Email: [Your email address]
-- Twitter: [@YourTwitterHandle]
-- [Other contact information]
+- Email: priompalnfs@yahoo.com
+- [Linkedin](https://www.linkedin.com/in/priom-pal-b32961194/)
 
-Happy analyzing!
+Happy coding!
