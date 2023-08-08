@@ -2,7 +2,7 @@
 
 Welcome to the Uber Data Analysis project! In this project, we perform an in-depth exploration and analysis of Uber's ride-sharing data to uncover insights, trends, and patterns.
 
-![Uber Logo](uber_logo.png)
+![Uber Logo](538264.png)
 
 ## Table of Contents
 
