@@ -11,14 +11,13 @@ Welcome to the Uber Data Analysis project! In this project, we perform an in-dep
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Features](#features)
+- [Notebook Content](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Analysis Highlights](#analysis-highlights)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -94,6 +93,6 @@ We welcome contributions from the community! To contribute to the Uber Data Anal
 If you have any questions or suggestions, please feel free to reach out to us:
 
 - Email: priompalnfs@yahoo.com
-- [Linkedin](https://www.linkedin.com/in/priom-pal-b32961194/)
+- [Linkedin](https://www.linkedin.com/in/priom-pal-b32961194/) Priom Pal
 
 Happy coding!
