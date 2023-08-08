@@ -99,6 +99,5 @@ If you have any questions or suggestions, please feel free to reach out to us:
 
 - Email: priompalnfs@yahoo.com
 - [Linkedin](https://www.linkedin.com/in/priom-pal-b32961194/) Priom Pal
-- Linkedin: [@https://www.linkedin.com/in/priom-pal-b32961194/]
 
 Happy coding!
